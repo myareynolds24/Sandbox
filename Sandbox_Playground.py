@@ -5,3 +5,4 @@
 # 10.12.2023 practice
 print("Hello, Mya")
 print("\nI am looking forward to not being in this class :)")
+print("HEHEHEHEHEHE ♡")
