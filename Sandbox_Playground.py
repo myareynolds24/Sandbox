@@ -4,5 +4,8 @@
 
 # 10.12.2023 practice
 print("Hello, Mya")
-print("\nI am looking forward to not being in this class :)")
+print("\nI am looking forward to not being in school:)")
 print("HEHEHEHEHEHE ♡")
+print("...")
+print("Save me please")
+
